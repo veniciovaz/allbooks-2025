@@ -3,7 +3,7 @@
 
 name: Workflow de Integração Contínua
 on:
-    pull_request:
+  pull_request:
     branches: [ "main" ]
 
 jobs:
